@@ -1,0 +1,30 @@
+th{
+    font-size: large;
+}
+
+td{
+    font-size: 15px;
+}
+
+a,option{
+    font-size: medium;
+}
+
+h5{
+    font-size: 20px;
+    color: cadetblue;
+}
+
+.removeitem{
+    color: crimson;
+}
+
+thead{
+    background-color: #DFD4A7;
+
+}
+
+.div2{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

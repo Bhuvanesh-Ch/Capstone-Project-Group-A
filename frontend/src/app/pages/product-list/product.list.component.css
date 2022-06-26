@@ -1,0 +1,29 @@
+.isDisabled {
+    color: currentColor;
+    cursor: not-allowed;
+    opacity: 0.5;
+    text-decoration: none;
+  }
+
+
+  th{
+    font-size: large;
+}
+
+td{
+    font-size: 15px;
+}
+
+a,option{
+    font-size: medium;
+}
+
+h5{
+    font-size: 20px;
+    color: cadetblue;
+}
+thread{
+    background-color: #DFD4A7;
+}
+
+.button2{font-size: 15px;}
